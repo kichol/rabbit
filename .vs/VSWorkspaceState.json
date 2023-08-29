@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProducerConsumerRabbitMQ",
+    "\\ProducerConsumerRabbitMQ\\ProducerRabbitMQ"
   ],
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
