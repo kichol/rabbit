@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\MicroRabbit",
+    "\\MicroRabbit\\MicroRabbit.Domain.Core",
+    "\\MicroRabbit\\MicroRabbit.Domain.Core\\Commands",
     "\\ProducerConsumerRabbitMQ",
     "\\ProducerConsumerRabbitMQ\\ProducerRabbitMQ"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\MicroRabbit.sln",
   "PreviewInSolutionExplorer": false
 }
